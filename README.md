@@ -11,10 +11,10 @@ Mas caso, tenha alguem que esteja estudando Java, talvez esses comentarios prese
 dos projetos das sessões 16, 21, 23, 25, 26 possam ser util.
 
 
-Sessão 16: Projeto: Sistema jogo de xadrez
-Sessão 21: Acesso a banco de dados com JDBC
-Sessão 23: Projeto: Aplicação desktop com JavaFX e banco de dados MySQL com JDBC
-Sessão 25: Projeto: Web services com Spring Boot e JPA/Hibernate
+Sessão 16: Projeto: Sistema jogo de xadrez                       
+Sessão 21: Acesso a banco de dados com JDBC                            
+Sessão 23: Projeto: Aplicação desktop com JavaFX e banco de dados MySQL com JDBC                            
+Sessão 25: Projeto: Web services com Spring Boot e JPA/Hibernate                                    
 Sessão 26: Projeto: API Restful com Spring Boot e banco MongoDB(web services + NoSQL)
 
 Obrigado.
